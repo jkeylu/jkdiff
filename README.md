@@ -1,2 +1,2 @@
-mydiff
+jkdiff
 ======
